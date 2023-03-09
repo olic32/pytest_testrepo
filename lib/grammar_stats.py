@@ -26,9 +26,6 @@ class GrammarStats:
             return True
         else:
             return False
-        
-        
-        
 
 
     def percentage_good(self):
